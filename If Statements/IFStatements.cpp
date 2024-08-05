@@ -21,7 +21,5 @@ int main(){
         std::cout << "Please go away child";
     }
 
-
-
     return 0;
 }
